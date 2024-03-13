@@ -4,8 +4,8 @@
 ## Table of Contents
 * [General Info](#general-information-and-problem-statement)
 * [Business Goal](#business-goal)
-* [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
+* [Technologies Used](#technologies-used)
 * [Acknowledgements](#acknowledgements)
 
 ## General Information and Problem Statement
